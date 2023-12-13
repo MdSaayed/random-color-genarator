@@ -1,3 +1,3 @@
 # random-color-genarator
-- Added the color save function 
-- Added the color copy function
+- User can save his/her favourite color
+- User can click to cpoy color
